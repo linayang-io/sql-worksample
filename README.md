@@ -1,12 +1,12 @@
-# Data analysis using SQL
+# Data Analysis Using SQL
 During my General Assembly certification course in data analytics, one of our projects was to run SQL queries in a PostgreSQL database that houses a [test flight](https://web.archive.org/web/20160304073326/https://testpilot.mozillalabs.com/testcases/a-week-life-2/aggregated-data.html) with customer surveys and usage analytics of Mozilla Firefox users. We were tasked to imagine being a product manager for Mozilla Firefox and put together a presentation recommending the area of focus for a new version of Firefox and whether the product team needs to revamp the bookmark experience based on analysis of this data. Visualizations of analysis was created in Tableau and put into a PowerPoint presentation. Project date: September 2017
 
-# Mozilla Firefox product usage
+# Mozilla Firefox Product Usage
 Product analysis can inform and shape your product features and digital roadmap. Understanding user behavior through data can bring to surface whether improvements are necessary to keep your product competitive in the market. 
 
-#### Hypothesis/assumptions
+#### Hypothesis/Assumptions
 1. Users do not rely on bookmarks as much as they do on tabs
-#### Goals and success metrics
+#### Goals and Success Metrics
 1. Understand whether it is a sound investment to improve the Mozilla Firefox infrastructure to be able to support having a large number of tabs
 #### Risks and Limitations 
 1. The sample size of the Firefox users consists of 27,267 users. Of those users, 4,081 users answered the survey. 
