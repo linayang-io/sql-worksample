@@ -1,7 +1,7 @@
-# Data Analysis using SQL
+# Data analysis using SQL
 During my General Assembly certification course in data analytics, one of our projects was to run SQL queries in a PostgreSQL database that houses a [test flight](https://web.archive.org/web/20160304073326/https://testpilot.mozillalabs.com/testcases/a-week-life-2/aggregated-data.html) with customer surveys and usage analytics of Mozilla Firefox users. We were tasked to imagine being a product manager for Mozilla Firefox and put together a presentation recommending the area of focus for a new version of Firefox and whether the product team needs to revamp the bookmark experience based on analysis of this data. Visualizations of analysis was created in Tableau and put into a PowerPoint presentation. Project date: September 2017
 
-# Mozilla Firefox Product Usage
+# Mozilla Firefox product usage
 Product analysis can inform and shape your product features and digital roadmap. Understanding user behavior through data can bring to surface whether improvements are necessary to keep your product competitive in the market. 
 
 #### Hypothesis/assumptions
