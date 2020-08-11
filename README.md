@@ -1,5 +1,5 @@
 # Data Analysis using SQL
-During my General Assembly certification course in data analytics, one of our projects was to run SQL queries in a PostgreSQL database that houses a [test flight](https://web.archive.org/web/20160304073326/https://testpilot.mozillalabs.com/testcases/a-week-life-2/aggregated-data.html) with customer surveys and usage analytics of Mozilla Firefox users. We were tasked to imagine being a product manager for Mozilla Firefox and put together a presentation recommending the area of focus for a new version of Firefox and whether the product team needs to revamp the bookmark experience. 
+During my General Assembly certification course in data analytics, one of our projects was to run SQL queries in a PostgreSQL database that houses a [test flight](https://web.archive.org/web/20160304073326/https://testpilot.mozillalabs.com/testcases/a-week-life-2/aggregated-data.html) with customer surveys and usage analytics of Mozilla Firefox users. We were tasked to imagine being a product manager for Mozilla Firefox and put together a presentation recommending the area of focus for a new version of Firefox and whether the product team needs to revamp the bookmark experience. Project date: September 2017
 
 #### Hypothesis/assumptions
 1. Users do not rely on bookmarks as much as they do on tabs
